@@ -17,12 +17,12 @@
 
 
 <br>
-<br>
-<br>
-<br>
+
+  <br>
+  <br>
+
 Front end web developer | Deep Learning | SQL   
-<br>
-Feel free to reach out to me. <br><br>
+Feel free to reach out to me. <br>
 
 
 
