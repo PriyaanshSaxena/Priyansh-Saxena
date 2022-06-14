@@ -1,4 +1,6 @@
 ### Hi there I'm Priyansh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px">
+<img alt="banner" src="assets\PRIYANSH_modified.png" width="80%" padding-top="10%" padding-bottom="10%" />
+
 <a href="https://t.me/Priyansh_shredder" target="_blank">
   <img align="left" alt="Priyansh Saxena| Telegram" width="23px" src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" />
 </a>
@@ -21,8 +23,9 @@
   <br>
   <br>
 
-Front end web developer | Deep Learning | SQL   
-Feel free to reach out to me. <br>
+- Front end web developer | Deep Learning | SQL   
+- Feel free to reach out to me. 
+- I am looking for upgrading my knowledge in AI especially Deep Learning 🙂
 
 
 
