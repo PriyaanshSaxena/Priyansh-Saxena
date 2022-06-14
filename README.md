@@ -1,4 +1,4 @@
-### Hi there I'm Priyansh! 👋
+### Hi there I'm Priyansh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px">
 <a href="https://t.me/Priyansh_shredder" target="_blank">
   <img align="left" alt="Priyansh Saxena| Telegram" width="23px" src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" />
 </a>
